@@ -21,12 +21,12 @@
 
 ## Installation
 - Clone the repository:
-    ''' bash
+  ''' bash
     git clone <repository-url>
-    cd <repository-directory>
+    cd <repository-directory> '''
 - Install the required libraries:
     ''' bash
-    pip install -r requirements.txt
+    '''pip install -r requirements.txt'''
 
 - Set up the .env file:
     Create a .env file in the project root directory.
