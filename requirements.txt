@@ -1,0 +1,10 @@
+requests 
+beautifulsoup4
+praw
+pandas
+numpy
+textblob
+seaborn
+matplotlib
+scikit-learn
+
