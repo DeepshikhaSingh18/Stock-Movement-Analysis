@@ -21,20 +21,21 @@
 
 ## Installation
 - Clone the repository:
-  ''' bash
-    git clone <repository-url>
-    cd <repository-directory> '''
+ ```bash 
+    ```git clone <repository-url>```
+    ```cd <repository-directory> ```
+```
 - Install the required libraries:
-    ''' bash
-    '''pip install -r requirements.txt'''
+  ``` bash 
+    ```pip install -r requirements.txt```
 
 - Set up the .env file:
     Create a .env file in the project root directory.
     Add sensitive keys or configuration variables, e.g.
-    ''' bash
-    CLIENT_ID=your_client_id
-    CLIENT_SECRET=your_client_secret
-    USER_AGENT=your_user_agent
+  
+    ```CLIENT_ID=your_client_id```
+   ``` CLIENT_SECRET=your_client_secret```
+   ``` USER_AGENT=your_user_agent```
 
 ## Libraries Used
 - **praw**: Python Reddit API Wrapper for retrieving Reddit data.
